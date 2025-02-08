@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -39,7 +38,7 @@
     <h1>¿Quieres ser mi San Valentín? 💖</h1>
     <img src="https://i.imgur.com/6JpGknO.gif" alt="Pareja romántica" width="300">
     <div class="buttons">
-        <button class="btn yes" onclick="alert('¡Sabía que dirías que sí! 💕')">Sí</button>
+        <button class="btn yes" onclick="alert('Te amooo 💕')">Sí</button>
         <button class="btn no" onmouseover="mueveNo()">No</button>
     </div>
     <script>
