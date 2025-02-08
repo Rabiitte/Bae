@@ -36,7 +36,7 @@
 </head>
 <body>
     <h1>¿Quieres ser mi San Valentín? 💖</h1>
-    <img src="https://mx.pinterest.com/pin/319051954859454674/"300">
+    <img src="https://i.pinimg.com/736x/ac/84/e4/ac84e46bd7f71ec39bd2db861f3361a8.jpg" alt="Ositos enamorados" width="300">
     <div class="buttons">
         <button class="btn yes" onclick="alert('Te amooo 💕')">Sí</button>
         <button class="btn no" onmouseover="mueveNo()">No</button>
