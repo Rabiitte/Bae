@@ -36,7 +36,7 @@
 </head>
 <body>
     <h1>¿Quieres ser mi San Valentín? 💖</h1>
-    <img src="https://i.imgur.com/6JpGknO.gif" alt="Pareja romántica" width="300">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Frousyk%2Fosos-enamorados%2F&psig=AOvVaw3Nn8VA5Eeq-jXCEnL8i4X5&ust=1739071583539000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj3gtSQs4sDFQAAAAAdAAAAABAQ" alt="Ositos enamorados" width="300">
     <div class="buttons">
         <button class="btn yes" onclick="alert('Te amooo 💕')">Sí</button>
         <button class="btn no" onmouseover="mueveNo()">No</button>
